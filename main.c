@@ -16,6 +16,7 @@ struct fums dr;
 struct fums strats[2]; 
 // make sure to increment the size of the array for each new strategy that you add
 
+// CHANGES BY 5AMURAI
 
 void printIntro() {
 	printf("\n\nIntroducing...\n\n");
