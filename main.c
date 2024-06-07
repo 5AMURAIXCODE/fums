@@ -36,7 +36,7 @@ void printIntro() {
 	} 
 	fclose(fptr); 
 
-	printf("\nby Jazamat\n");
+	printf("\nby 5amuraix\n");
 	printf("\n\n\nNo joke, this is meant to f*** up your system\n\n");
 	printf("Type 'help' to learn how to f*** up your system\n\n");
 	return;
